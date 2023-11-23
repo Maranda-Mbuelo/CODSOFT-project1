@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+p{
+    color: #705e4e;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+    background-color: #504e70;
+    border-radius: 15px;
+}
+
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #ec18389c; /* Set the color of the thumb */
+    border-radius: 6px; /* Set the border radius of the thumb */
+  }
