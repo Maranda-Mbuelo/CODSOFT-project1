@@ -7,7 +7,6 @@ import { SidebarComponent } from './shared/components/sidebar.component';
 import { HomeComponent } from './shared/components/home.component';
 import { ContainerComponent } from './shared/components/container.component';
 import { AboutComponent } from './shared/components/about.component';
-import { MiniaboutComponent } from './shared/components/miniabout.component';
 import { AboutminiComponent } from './shared/components/aboutmini.component';
 import { AboutcontactComponent } from './shared/components/aboutcontact.component';
 import { AboutpersonalComponent } from './shared/components/aboutpersonal.component';
@@ -25,7 +24,6 @@ import { ContactComponent } from './shared/components/contact.component';
     HomeComponent,
     ContainerComponent,
     AboutComponent,
-    MiniaboutComponent,
     AboutminiComponent,
     AboutcontactComponent,
     AboutpersonalComponent,
